@@ -1,0 +1,2 @@
+mongod.exe --dbpath /Users/H184901/mongo-data
+
